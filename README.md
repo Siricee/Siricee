@@ -2,7 +2,7 @@
 
 ### Hi there! I'm Sirice:
 
-💻 FrontEnd EngIneer<br>
+💻 FrontEnd Engineer<br>
 🎓 Undergraduate from HEU<br>
 ☕ Developing with a sense of Design<br>
 📝 Blog: [Sirice's Blog](https://sirice.netlify.app/)<br>
