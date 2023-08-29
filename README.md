@@ -17,7 +17,7 @@
 📫 Mail: sirice@163.com<br>
 ⭐️ Github: [@Siricee](https://github.com/siricee)<br>
 
-<img align='right' width="50%" height='100%' style="object-fit:contain" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+<img align='right' width="55%" height='100%' style="object-fit:contain" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 
 <br>
 <img align='left' src="https://count.getloli.com/get/@Siricee?theme=moebooru" />
