@@ -6,10 +6,9 @@
 
 ### _Contact with me_
 
-<img align='right' width="50%" height='50%' src="https://count.getloli.com/get/@Siricee?theme=moebooru" />
-
 📝 Blog: [Sirice's Blog](https://sirice.netlify.app/)<br>
 📫 Mail: sirice@163.com<br>
+<img align='right' width="50%" height='50%' src="https://count.getloli.com/get/@Siricee?theme=moebooru" />
 ⭐️ Github: [@Siricee](https://github.com/siricee)<br>
 
 ### _Stuff I worked_
