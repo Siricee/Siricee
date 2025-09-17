@@ -1,6 +1,6 @@
 
 ### _Hi there!_
-💻 FrontEnd Developer<br>
+💻 FrontEnd Developer ···> 🎨Technical Artist? <br>
 🎓 Undergraduate from HEU<br>
 ☕ Developing with a sense of Design<br>
 
@@ -13,9 +13,9 @@
 
 ### _Stuff I worked_
 
-⚙️ Vue / TypeScript<br>
-👨‍💻 WebGL / Threejs / Shaders<br>
-🧭 [Visit my Showcase](https://sirice-playground.netlify.app/) <br>
+:octocat: Vue / TypeScript / WebGL<br>
+⚙️ Threejs / GLSL / Blender<br>
+📒 [Visit my Showcase](https://sirice-playground.netlify.app/) <br>
 
 
 
