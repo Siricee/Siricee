@@ -1,3 +1,4 @@
+<img align='right' width='36%' height='30%' src="https://gh-readme-stats-nagi.vercel.app/api?username=siricee&show_icons=true&theme=transparent&hide_rank=true&hide_title=true&count_private=true&role=OWNER">
 
 ### _Hi there!_
 💻 FrontEnd Developer ···> 🎨Technical Artist? <br>
